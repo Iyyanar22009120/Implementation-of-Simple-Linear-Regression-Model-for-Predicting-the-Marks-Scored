@@ -75,16 +75,19 @@ plt.show()
 ![1ml23](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/963bfe0c-06f4-45d8-860e-be0045fc2d68)
 
 ## Y test output
-![1ml24](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/2765e3ec-2276-4997-bb05-a400fac0bba9)
+![1ml23](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/963bfe0c-06f4-45d8-860e-be0045fc2d68)
+
 
 ## Training set 1 output
+![1ml24](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/2765e3ec-2276-4997-bb05-a400fac0bba9)
+
+
+## Training set 2 
 ![1ml25](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/f6a5c582-0bcf-4f96-83bd-ae870a866e52)
 
-## Training set 2 output
-![1ml26](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/e2fecb84-d830-4b0b-bd1a-44e9d3f88bab)
 
 ## errors output
-
+![1ml26](https://github.com/Iyyanar22009120/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118680259/e2fecb84-d830-4b0b-bd1a-44e9d3f88bab)
 
 
 ## Result:
